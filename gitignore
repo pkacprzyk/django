@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+foo
+db.sqlite3
+.DS_store
